@@ -1,7 +1,7 @@
 @author   	: Ivan Maulana Putra - Punto Nugroho
 @nim      	: G64130076 - G64130052
-@project	: The 24 Game. How you find the way to get result = 24.
-@email		: ivanmaulanaputra@gmail.com
+@project	  : The 24 Game. How you find the way to get result = 24.
+@email		  : ivanmaulanaputra@gmail.com
 
 
 Input     : 9 7 6 3
