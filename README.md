@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @author   	: Ivan Maulana Putra - Punto Nugroho
 @nim      	: G64130076 - G64130052
 @project	: The 24 Game. How you find the way to get result = 24.
@@ -28,7 +27,3 @@ Example :
 Input 	: 6 3 4 7
 
 Output	: No Answers Found
-=======
-# 24Game
-The 24 Game in NASM Assembly
->>>>>>> 843446b338f4ee3639d306dc3a05b49b933bf529
