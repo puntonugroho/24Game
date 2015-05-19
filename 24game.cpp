@@ -1,5 +1,5 @@
-// @author   : Ivan Maulana Putra - Punto Nugroho
-// @nim      : G64130076 - G64130052
+// @author   : Ivan Maulana Putra
+// @nim      : G64130076
 // @project  : The 24 Game. How you find the way to get result = 24.
 
 #include <iostream>
